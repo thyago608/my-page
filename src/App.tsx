@@ -1,5 +1,8 @@
+import { Header } from "src/components/Header";
+import "./styles/main.css";
+
 function App() {
-  return <div>My page</div>;
+  return <Header />;
 }
 
 export default App;
